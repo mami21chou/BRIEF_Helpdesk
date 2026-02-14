@@ -1,0 +1,14 @@
+Informations Admin :
+
+email: adji@gmail.com
+password: Adji
+
+
+Informations Apprenants:
+
+Abdoulaye email: abdoulaye@gmail.com
+Abdoulaye password: Abdoulaye
+
+Fatou Diop email : fatou@gmail.com
+Fatou Diop password: Fatou
+
